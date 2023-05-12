@@ -14,7 +14,9 @@ Go to sector tab - check as per different sectors
 
 
 Inflation Analyzer project of Data Analysis
-ChatGPT
+
+
+
 The Inflation Analyzer project is a data analysis project that involves analyzing inflation trends over time and identifying the factors that contribute to inflation. The project typically involves the following steps:
 
 Data Collection: The first step in the project is to collect data on inflation rates over time. This data can be obtained from various sources, such as government agencies, central banks, and international organizations.
